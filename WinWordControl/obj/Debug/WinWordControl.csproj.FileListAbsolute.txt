@@ -1,0 +1,12 @@
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\bin\Debug\WinWordControl.dll
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\bin\Debug\WinWordControl.pdb
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\bin\Debug\Interop.Office.dll
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\bin\Debug\Interop.VBIDE.dll
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\bin\Debug\Interop.Word.dll
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\ResolveAssemblyReference.cache
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\WinWordControl.csproj.ResolveComReference.cache
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\WinWordControl.WinWordControl.resources
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\GenerateResource.read.1.tlog
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\GenerateResource.write.1.tlog
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\WinWordControl.dll
+Z:\123\核心文件\WordInDotNet_src\WinWordControl\obj\Debug\WinWordControl.pdb

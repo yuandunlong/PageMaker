@@ -1,0 +1,3 @@
+C:\project\PageMaker\Demo\bin\Debug\WordInDOTNET.exe.config
+C:\project\PageMaker\Demo\obj\Debug\WordInDOTNET.exe
+C:\project\PageMaker\Demo\obj\Debug\WordInDOTNET.pdb
